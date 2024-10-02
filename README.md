@@ -2,7 +2,7 @@
 
 A repo of data concerning stitistical abstrcts concerning crimes committed in the US.
 
-Data is compiles from the following sources:
+Data is compiled from the following sources:
 
 ![FBI Crime Data Explorer](https://github.com/user-attachments/assets/7a1ec396-75ed-49b2-bce8-f52a8e3bc5ac)
 ![OJP-seal](https://github.com/user-attachments/assets/4567164c-e3ac-4eb1-b4e6-0d07c6f4d134)
