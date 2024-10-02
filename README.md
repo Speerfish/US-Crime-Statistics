@@ -1,6 +1,6 @@
 # US-Crime-Statistics
 
-A repo of data concerning stitistical abstrcts concerning crimes committed in the US.
+A repo of data comprised of statistical abstracts on crimes committed in the US between 2014-2023.
 
 Data is compiled from the following sources:
 
